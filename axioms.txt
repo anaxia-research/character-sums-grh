@@ -1,0 +1,4 @@
+'LiouvilleEnergyRH.character_sum_le_rpow' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LiouvilleEnergyRH.character_sum_bound' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LiouvilleEnergyRH.lindelof_bound' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LiouvilleEnergyRH.riemannHypothesis_of_H' depends on axioms: [propext, Classical.choice, Quot.sound]
